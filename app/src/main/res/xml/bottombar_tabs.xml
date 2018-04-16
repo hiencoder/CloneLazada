@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab id="@+id/tab_trangchu"
+        icon="@drawable/selector_trangchu"
+        title="Trang chủ"
+        barColorWhenSelected="#5D4037"/>
+    <tab id="@+id/tab_nganhhang"
+        icon="@drawable/selector_nganhhang"
+        title="Ngành hàng"
+        barColorWhenSelected="#5D4037"/>
+    <tab id="@+id/tab_giohang"
+        icon="@drawable/selector_giohang"
+        title="Giỏ hàng"
+        barColorWhenSelected="#5D4037"/>
+    <tab id="@+id/tab_taikhoan"
+        icon="@drawable/selector_taikhoan"
+        title="Tài khoản"
+        barColorWhenSelected="#5D4037"/>
+
+</tabs>

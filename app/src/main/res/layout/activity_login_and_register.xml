@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_login_and_register"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@drawable/bg_toolbar">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/btn_close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_close"/>
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txt_dangnhap_dangky"
+                android:textColor="@color/colorWhite"
+                android:layout_toRightOf="@+id/btn_close"
+                android:layout_marginLeft="10dp"
+                android:layout_centerVertical="true"/>
+        </RelativeLayout>
+    </android.support.v7.widget.Toolbar>
+<!--
+    <com.astuetz.PagerSlidingTabStrip
+        android:id="@+id/psts_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        android:background="@color/colorWhite"
+        app:pstsIndicatorColor="@color/colorOrange"
+        app:pstsTextAllCaps="false"
+        app:pstsIndicatorHeight="3dp"
+        app:pstsUnderlineHeight="3dp"
+        app:pstsShouldExpand="true">
+
+    </com.astuetz.PagerSlidingTabStrip>
+-->
+<!--
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_login"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toBottomOf="@+id/psts_login"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+-->
+</LinearLayout>

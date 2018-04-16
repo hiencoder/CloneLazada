@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">CloneLazada</string>
+    <string name="txt_trangchu">Trang chủ</string>
+    <string name="txt_nganhhang">Các ngành hàng</string>
+    <string name="txt_giohang">Giỏ hàng</string>
+    <string name="txt_taikhoan">Tài khoản</string>
+    <string name="txt_thongbao">Thông báo</string>
+    <string name="txt_donhang_cuatoi">Đơn hàng của tôi</string>
+    <string name="txt_danhsach_mongmuon">Danh sách mong muốn</string>
+    <string name="txt_caidat">Cài đặt</string>
+    <string name="txt_chinhsach">Chính sách</string>
+    <string name="txt_giupdo">Bạn có cần giúp đỡ</string>
+    <string name="txt_vuilong_dangnhap">Vui lòng đăng nhập</string>
+    <string name="txt_dangnhap">Đăng nhập</string>
+    <string name="txt_nhankhuyenmai">Tôi muốn nhận các khuyến mãi độc quyền qua email</string>
+    <!--Màn hình thông báo-->
+    <string name="txt_bolo_dealtot">Bạn đã bỏ lỡ deal tốt</string>
+    <string name="txt_dangnhap_xemkhuyenmai">Đăng nhập tài khoản để xem tin khuyến mãi</string>
+
+    <!--Màn hình đơn hàng của tôi-->
+    <string name="txt_dangnhap_xemdonhang">Đăng nhập để xem tất cả đơn hàng</string>
+    <string name="txt_vuilong_nhapvaoday">Vui lòng nhập vào đây</string>
+    <string name="txt_email">Địa chỉ email</string>
+    <string name="txt_madonhang">Mã đơn hàng</string>
+    <string name="txt_tieptuc">Tiếp tục</string>
+
+    <!--Màn hình danh sách mong muốn-->
+    <string name="txt_khongco_monhang_yeuthich">Không có món hàng nào trong danh sách yêu thích</string>
+    <string name="txt_tieptuc_muahang">Tiếp tục mua hàng</string>
+    <string name="txt_top_sellers">Top Sellers</string>
+    <string name="txt_xem_tatca">Xem tất cả</string>
+
+    <!--Màn hình cài đặt-->
+    <string name="txt_caidat_thongbao">Nhận ngay những khuyến mãi mới nhất và thông tin cập nhật cá nhân của bạn</string>
+    <string name="txt_tieude_amthanh">Âm thanh</string>
+    <string name="txt_caidat_amthanh">Báo hiệu âm thanh khi có thông báo mới</string>
+    <string name="txt_tieude_quocgia">Quốc gia</string>
+    <string name="txt_caidat_quocgia">Vietnam hiện đang là quốc gia của bạn</string>
+    <string name="txt_caidat_phienban">Phiên bản</string>
+    <string name="txt_caidat_thaydoi_quocgia">Thay đổi quốc gia của bạn</string>
+    <string name="txt_caidat_indonesia">Indonesia</string>
+    <string name="txt_caidat_malaysia">Malaysia</string>
+    <string name="txt_caidat_philippines">Philippines</string>
+    <string name="txt_caidat_singapore">Singapore</string>
+    <string name="txt_caidat_thailand">Thailand</string>
+    <string name="txt_caidat_vietnam">Vietnam</string>
+
+    <!--Màn hình chính sách-->
+    <string name="txt_chinhsachchung">Chính sách chung</string>
+    <string name="txt_dieukhoan">Điều khoản sử dụng</string>
+
+    <!--Màn hình trợ giúp-->
+    <string name="txt_trogiup">Trợ giúp</string>
+    <string name="txt_trogiup_tieude">Xin chào, Lazada giúp được gì cho bạn</string>
+    <string name="txt_trogiup_timkiem">Tìm theo chủ đề câu hỏi</string>
+    <string name="txt_trogiup_cauhoi_hangdau">Câu hỏi hàng đầu</string>
+    <string name="txt_xemthem">XEM THÊM</string>
+    <string name="txt_chude">Chủ đề</string>
+    <string name="txt_chude_taikhoancuatoi">Tài khoản của tôi</string>
+    <string name="txt_chude_sanphamtrenlazada">Sản phẩm trên Lazada</string>
+    <string name="txt_chude_thanhtoan">Thanh toán</string>
+    <string name="txt_chude_giaohangnhanhang">Giao hàng và nhận hàng</string>
+    <string name="txt_chude_doitra">Đổi trả</string>
+    <string name="txt_chude_hoantien">Hoàn tiền</string>
+    <string name="txt_chude_chudekhac">Chủ đề khác</string>
+    <string name="txt_trogiup_bancantuvan">Bạn vẫn cần trợ giúp</string>
+    <string name="txt_trogiup_hotro">Chúng tôi luôn ở đây để hỗ trợ bạn, 24h một ngày, 7 ngày một tuần</string>
+    <string name="txt_trogiup_trochuyenngay">Trò chuyện ngay</string>
+    <string name="txt_trogiup_otheroption">Other option</string>
+    <string name="txt_trogiup_trungtam">Trung tâm hỗ trợ có giúp gì cho bạn</string>
+
+    <!--Màn hình đăng nhập đăng ký-->
+    <string name="txt_dangnhap_dangky">Đăng nhập/Đăng ký</string>
+    <string name="txt_dangky">Đăng ký</string>
+    <string name="txt_matkhau">Mật khẩu</string>
+    <string name="txt_quenmatkhau">Quên mật khẩu?</string>
+    <string name="txt_hoacdangnhap">Hoặc đăng nhập bằng</string>
+    <string name="txt_facebook">Facebook</string>
+    <string name="txt_google">Google</string>
+    <string name="txt_hoten_daydu">Họ tên đầy đủ</string>
+    <string name="txt_valid_matkhau">Mật khẩu phải bao gồm ít nhất 6 ký tự và 1 chữ hoa</string>
+    <string name="txt_nhaplai_matkhau">Nhập lại mật khẩu</string>
+    <string name="txt_toidadoc">Tôi đã đọc và hiểu rõ các điều khoản và chính sách bảo mật của Lazada</string>
+    <string name="txt_hoacdangky">Hoặc đăng ký bằng</string>
+</resources>
